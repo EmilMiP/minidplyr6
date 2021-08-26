@@ -15,6 +15,9 @@ RoxygenNote: 7.1.1
 Imports: 
     dplyr,
     ggplot2
-Suggests: 
+Suggests:
+    spelling, 
+    covr,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Language: en-US
